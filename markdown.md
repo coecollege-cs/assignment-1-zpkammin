@@ -11,4 +11,3 @@
 
 [This is a link to google](https://google.com)
 
-'Code Code Code Code Code'
